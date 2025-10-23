@@ -1,0 +1,48 @@
+# Node modules (dependencies)
+node_modules/
+
+# Playwright test output
+test-results/
+playwright-report/
+blob-report/
+allure-report/
+videos/
+screenshots/
+trace.zip
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Environment files (never commit secrets)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VSCode & IDE settings
+.vscode/
+.idea/
+
+# Cache folders
+.cache/
+dist/
+out/
+coverage/
+
+# Temporary JSON or data dumps
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Optional: Ignore uploaded artifacts from CI/CD
+artifacts/
