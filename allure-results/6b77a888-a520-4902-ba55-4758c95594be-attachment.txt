@@ -1,4 +1,0 @@
-Status Code: 201
-✅ Login Response: {
-  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzZXIiOiJtb3JfMjMxNCIsImlhdCI6MTc2MTI0MDU0M30.xCMqtp1v9jc9_lkfXI0qDVFWDDnTWOUsQh8qaOSgauE'
-}
