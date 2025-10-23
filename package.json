@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce-automation-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "allure-playwright": "^3.4.1"
+  }
+}
