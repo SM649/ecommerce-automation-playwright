@@ -1,7 +1,7 @@
 # 🛍️ E-Commerce Automation Suite (Playwright)
 
 ## 🎯 Project Overview
-This project is a **professional Playwright automation framework** built for the demo e-commerce website [SauceDemo](https://www.saucedemo.com/).  
+This project is a **Pratice Playwright automation framework** built for the demo e-commerce website [SauceDemo](https://www.saucedemo.com/).  
 It covers **UI**, **API**, **Cross-Browser**, and **CI/CD pipeline** — simulating a real QA automation environment.
 
 ---
